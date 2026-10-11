@@ -1,0 +1,16 @@
+{
+  "settable": [
+    "weight",
+    "linear-drag",
+    "angular-drag"
+  ],
+  "max_force": 120,
+  "max_torque": 6,
+  "max_steps_per_call": 600,
+  "max_path_off_road": 0.1,
+  "min_road_coverage": 0.98,
+  "time_limit_s": 900,
+  "cover_radius": null,
+  "off_road_tolerance": 8,
+  "dt": null
+}

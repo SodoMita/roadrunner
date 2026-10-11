@@ -1,0 +1,12 @@
+{
+  "settable": ["theta"],
+  "max_force": 120.0,
+  "max_torque": 0.0,
+  "max_steps_per_call": 60,
+  "max_path_off_road": 0.01,
+  "min_road_coverage": 0.95,
+  "time_limit_s": 600.0,
+  "cover_radius": 6.0,
+  "off_road_tolerance": 10.0,
+  "dt": 0.0166667
+}

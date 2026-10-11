@@ -1,0 +1,12 @@
+{
+  "settable": [],
+  "max_force": 70,
+  "max_torque": 4,
+  "max_steps_per_call": 240,
+  "max_path_off_road": 0.04,
+  "min_road_coverage": 0.995,
+  "time_limit_s": 180,
+  "cover_radius": 5,
+  "off_road_tolerance": 1,
+  "dt": null
+}
